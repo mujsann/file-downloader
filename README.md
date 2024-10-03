@@ -30,6 +30,7 @@ A CLI Go application that downloads files from a specified URL by chunking the f
 ## Usage
 
 Run the application with the following command:
-    ```bash
+
+   ```bash
     ./filedownloader -url <file-download-url> -dest <local-destination-path>
-    ```
+   ```
